@@ -80,5 +80,5 @@ Before running the script, ensure you have the following tools installed:
 5. Run the script:
 
    ```bash
-   $ chmod +x applesilicon.sh
-   $ ./applesilicon.sh
+   $ chmod +x openglAppleSilicon.sh
+   $ ./openglAppleSilicon.sh
