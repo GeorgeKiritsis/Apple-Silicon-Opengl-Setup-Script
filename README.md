@@ -42,10 +42,8 @@ Before running the script, ensure you have the following tools installed:
 
 - **Source File Creation**:  
   - Prompts you to select between C or C++ for your project language.  
-  - Creates a `main.c` or `main.cpp` file depending on your choice, with default OpenGL setup code.  
-
-    ⚠️ *C++ Support now working properly, * ⚠️ 
-
+  - Creates a `main.c` or `main.cpp` file depending on your choice, with default OpenGL setup code.
+    
 - **Makefile Generation**:  
   - Automatically creates a Makefile that compiles the project using `gcc` or `g++` based on your language choice.  
   - Includes necessary flags for GLFW and GLAD.  
