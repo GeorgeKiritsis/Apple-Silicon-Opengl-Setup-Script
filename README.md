@@ -44,7 +44,7 @@ Before running the script, ensure you have the following tools installed:
   - Prompts you to select between C or C++ for your project language.  
   - Creates a `main.c` or `main.cpp` file depending on your choice, with default OpenGL setup code.  
 
-    ⚠️ *C++ Support is not working properly, there are linking errors with GLAD* ⚠️ **Will be fixed soon**
+    ⚠️ *C++ Support now working properly, * ⚠️ 
 
 - **Makefile Generation**:  
   - Automatically creates a Makefile that compiles the project using `gcc` or `g++` based on your language choice.  
